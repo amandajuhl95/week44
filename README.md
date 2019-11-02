@@ -10,17 +10,17 @@
 
 ### Tuesday
 
-* To see the answers for the exam questions in both exercises are to be found [here](https://github.com/amandajuhl95/week44/blob/master/sp%C3%B8rgsm%C3%A5l.pdf)
+* To see the answers to the exam questions in both exercises are to be found [here](https://github.com/amandajuhl95/week44/blob/master/sp%C3%B8rgsm%C3%A5l.pdf)
 
 #### Excerise: "State med useState og useEffect" AND Exercise: "Exercises Lists and Keys"
 
-* I have completed both exercises. Exercise1, Exercise2 and Exercise3 are my solution for the exercise "State med useState og useEffect". ListDemoApp1 and ListDemoApp2 are my solution for the exercise "Exercises Lists and Keys".
+* I have completed both exercises. Exercise1, Exercise2 and Exercise3 are my solution for the exercise "State med useState og useEffect". ListDemoApp1 and ListDemoApp2 are my solution to the exercise "Exercises Lists and Keys".
 
 * To see the solution - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Tuesday)
 
 ### Wednesday
 
-* To see the answers for the questions - click [here](https://github.com/amandajuhl95/week44/blob/master/sp%C3%B8rgsm%C3%A5l.pdf)
+* To see the answers to the exam questions in both exercises are to be found [here](https://github.com/amandajuhl95/week44/blob/master/sp%C3%B8rgsm%C3%A5l.pdf)
 
 #### Exercise: "Forms with React" - solution completed.
 
@@ -30,9 +30,9 @@
 
 #### Exercise: "Lifting State" - solution completed.
 
-* To see the solution for the first part of the exercise - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Wednesday/ToDo)
+* To see the solution to the first part of the exercise - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Wednesday/ToDo)
 
-* The see the solution for the last part of the exercise - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Wednesday/LiftingState)
+* The see the solution to the last part of the exercise - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Wednesday/LiftingState)
 
 ### Thursday
 
@@ -44,5 +44,5 @@
 
 #### Exercise: "Exam preparation exercise" - solution not completed. 
 
-* I havn't done the exercise for this day. 
+* I havn't done the exercise to this day. 
 
