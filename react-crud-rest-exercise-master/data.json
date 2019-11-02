@@ -1,0 +1,32 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "age": "25",
+      "name": "Gale Sullivan",
+      "email": "galesullivan@zedalis.com",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "age": "31",
+      "name": "Karyn Fulton",
+      "email": "karynfulton@zedalis.com",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "age": "24",
+      "name": "Billie Lamb",
+      "email": "billielamb@zedalis.com",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "age": "31",
+      "name": "Marguerite Hunter",
+      "email": "margueritehunter@zedalis.com",
+      "gender": "Female"
+    }
+  ]
+}
