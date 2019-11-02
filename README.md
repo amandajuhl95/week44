@@ -24,6 +24,8 @@
 
 * FormDemo and FormDemoMultiple are my solution for the exercise "Forms with React". 
 
+* To see the solution - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Wednesday)
+
 #### Exercise: "Lifting State" - solution completed.
 
 * To see the solution for the first part of the exercise - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Wednesday/ToDo)
