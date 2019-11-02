@@ -6,7 +6,7 @@
 
 #### Exercise: "JavaScript/React" - solution completed.
 
-* To see solution - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Monday)
+* To see the solution - click [here](https://github.com/amandajuhl95/week44/tree/master/week44/src/Monday)
 
 ### Tuesday
 
